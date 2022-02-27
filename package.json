@@ -1,0 +1,17 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "nodemon src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async",
+    "await"
+  ],
+  "author": "alexglzrys@gmail.com",
+  "license": "MIT"
+}
