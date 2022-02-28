@@ -6,7 +6,8 @@
   "scripts": {
     "callback": "nodemon src/callback/index.js",
     "callback:challenge": "nodemon src/callback/challenge.js",
-    "promise": "nodemon src/promise/index.js"
+    "promise": "nodemon src/promise/index.js",
+    "promise:challenge": "nodemon src/promise/challenge.js"
   },
   "keywords": [
     "callbacks",
